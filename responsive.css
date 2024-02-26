@@ -21,6 +21,9 @@
     .softwaresused{
         flex-wrap: wrap;
     }
+    .fourthcontent{
+        height:50vh;
+    }
     .emailarea{
        width:7cm;
        gap:15px;
