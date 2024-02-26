@@ -1,0 +1,42 @@
+@media screen and (max-width:480px){
+    body{
+        -webkit-tap-highlight-color: transparent;
+    }
+    .profilequote p{
+        font-size: 0.7cm;
+    }
+    .navcontent{
+        display: none;
+        
+    }
+    .secondcontent{
+        height:60vh;
+    }
+    .servicescontent{
+        flex-direction: column;
+    }
+    .thirdcontent{
+        height:135vh;
+    }
+    .softwaresused{
+        flex-wrap: wrap;
+    }
+    .emailarea{
+       width:7cm;
+       gap:15px;
+
+    }
+    .socials{
+        flex-wrap: wrap;
+    }
+    .handshake{
+        width:3cm;
+        height:3cm;
+        object-fit: cover;
+        
+    }
+    .handshake img{
+        width:2.5cm;
+        height:2.5cm;
+    }
+}
