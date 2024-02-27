@@ -11,7 +11,8 @@ window.history.scrollRestoration = "manual";
 
 const locoScroll = new LocomotiveScroll({
   el: document.querySelector(".main"),
-  smooth: true
+  smooth: true,
+  smoothMobile: true
 });
 
 document.querySelector('.skillbtn').addEventListener('click',()=>{
