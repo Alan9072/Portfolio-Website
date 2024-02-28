@@ -15,9 +15,7 @@
     .servicescontent{
         flex-direction: column;
     }
-    .thirdcontent{
-        height:180vh;
-    }
+    
     .softwaresused{
         flex-wrap: wrap;
     }
