@@ -116,8 +116,9 @@ body{
     background-color: aqua;
     border-radius: 50%;
     border: 2px solid white;
-    background: url(./Images/profile.avif);
+    background: url(./Images/profileimg.jpg);
     background-size: cover;
+    background-position:left;
 }
 .name{
     color: black;
