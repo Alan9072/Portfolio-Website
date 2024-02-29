@@ -413,6 +413,9 @@ body{
     overflow: hidden;
 
 }
+.emailarea p{
+    user-select:auto;
+}
 .emailtag{
     font-family:myfont;
     margin-left: 5px;
